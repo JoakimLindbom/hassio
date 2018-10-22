@@ -1,0 +1,24 @@
+{
+  "id": 1,
+  "name": "Light - kitchen",
+  "protocol": "arctech",
+  "model": "selflearning-switch",
+  "house": "13647133",
+  "unit": "1"
+},
+{
+  "id": 2,
+  "name": "Light - living room",
+  "protocol": "arctech",
+  "model": "selflearning-switch",
+  "house": "13647677",
+  "unit": "1"
+},
+{
+  "id": 3,
+  "name": "Window lights - Media room",
+  "protocol": "arctech",
+  "model": "selflearning-switch",
+  "house": "13647376",
+  "unit": "1"
+}
